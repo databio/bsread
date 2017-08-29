@@ -1,0 +1,9 @@
+Package: bsparse
+Title: Parses Bisulfite Sequencing Methylation Calls
+Version: 0.0.0.9000
+Authors@R: person("Nathan", "Sheffield", email = "nathan@code.databio.org", role = c("aut", "cre"))
+Description: Provides functions for parsing DNA methylation data from various programs that make methylation calls
+Depends: R (>= 3.3.0)
+License: BSD-2
+Encoding: UTF-8
+LazyData: true
